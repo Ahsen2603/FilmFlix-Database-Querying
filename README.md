@@ -1,3 +1,3 @@
 # FilmFlix-Database-Querying
 
-My Loop is goinf rstraight to my else statement.
+My Loop is going straight to my else statement.
